@@ -22,3 +22,4 @@
 - [Какой язык программирования для тебя основной?](polls/language/question.md)
 - [Сколько модулей в ППРБ?](polls/PPRBmodules/question.md)
 - [Какие именно песни иногда неплохо сочиняет Винни-Пух?](polls/pooh/question.md)
+- [Знаешь ли ты?](polls/knowyou/question.md)
